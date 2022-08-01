@@ -1,4 +1,4 @@
-## Hello! Eu sou o Leandro Barros, desenvolvedor backend Java 😄
+## Hello! Eu sou o Leandro Barros, Java Backend Developer 😄
 
 <div align="center">
   <a href="https://github.com/leandro-barros">
